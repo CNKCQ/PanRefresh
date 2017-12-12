@@ -1,0 +1,6 @@
+framework module PanRefresh {
+  umbrella header "PanRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
